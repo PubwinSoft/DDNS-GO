@@ -1,6 +1,6 @@
 module github.com/jeessy2/ddns-go/v6
 
-go 1.20
+go 1.26.0
 
 require (
 	github.com/kardianos/service v1.2.2
@@ -12,5 +12,5 @@ require (
 
 require (
 	golang.org/x/sys v0.28.0 // indirect
-	golang.org/x/text v0.21.0
+	golang.org/x/text v0.43.0
 )
